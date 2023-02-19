@@ -1,0 +1,4 @@
+Create a new database table to store the backup IDs and timestamps. You can use the following SQL command to create the table:
+
+CREATE TABLE `wp_google_drive_backup`
+ 
